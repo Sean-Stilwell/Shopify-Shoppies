@@ -24,7 +24,7 @@ We'd like a simple to use interface that makes it easy to:
 
 ## My Solution
 
-![View of the application with sample results](app.PNG)
+![View of the application with sample results](/app.PNG)
 
 I created a solution that stays true to the reference image while adding some simple cosmetic changes. The app uses Bootstrap to facilitate a responsive design, but is otherwise coded myself.
 
