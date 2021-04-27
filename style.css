@@ -1,7 +1,7 @@
 body {
     max-width: 90rem;
     margin: 8rem auto 0;
-    background-color: #62a095;
+    background-color: #bbeed9;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -10,7 +10,9 @@ h4 {
 }
 
 img {
-    max-width: 30rem;
+    max-width: 50%;
+    width:auto;
+    height:auto;
     margin-bottom: 10px;
 }
 
